@@ -1,7 +1,6 @@
 - 🔭 I’m studying Full Stack Web Development at Trybe (https://www.betrybe.com/)
 - 🌱 I’m currently learning Node.js, Typescript, and other back-end related subjects
 - 🤔 I’m looking for colaboration and learning
-- 📫 How to reach me: ninapferrari@gmail.com and https://www.linkedin.com/in/ninaferrari/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm also an artist, I'm a musician. I love read books, mangas, and playing games!
 
