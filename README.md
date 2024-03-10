@@ -1,5 +1,3 @@
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for colaboration and learning
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm also an artist, I'm a musician. I love read books, mangas, and playing games!
 
